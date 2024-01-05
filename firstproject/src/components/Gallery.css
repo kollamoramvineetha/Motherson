@@ -1,0 +1,19 @@
+li {
+    list-style: none;
+    margin-right: 10px;
+    margin-left: 0px;
+  }
+  button {
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+  }
+  .card3 {
+    opacity: 1;
+    width: 60px;
+    height: 60px;
+  }
+  .card4 {
+    opacity: 0.5;
+  }
+  
