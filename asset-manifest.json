@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kollamoramvineetha/Motherson/static/css/main.acb6dfb7.css",
+    "main.js": "/kollamoramvineetha/Motherson/static/js/main.74d27f8f.js",
+    "static/js/787.0c1160fe.chunk.js": "/kollamoramvineetha/Motherson/static/js/787.0c1160fe.chunk.js",
+    "index.html": "/kollamoramvineetha/Motherson/index.html",
+    "main.acb6dfb7.css.map": "/kollamoramvineetha/Motherson/static/css/main.acb6dfb7.css.map",
+    "main.74d27f8f.js.map": "/kollamoramvineetha/Motherson/static/js/main.74d27f8f.js.map",
+    "787.0c1160fe.chunk.js.map": "/kollamoramvineetha/Motherson/static/js/787.0c1160fe.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.acb6dfb7.css",
+    "static/js/main.74d27f8f.js"
+  ]
+}
